@@ -18,3 +18,19 @@ header{
     left: 0;
 }
 
+h1{
+    font-size: 50px;
+}
+
+h3{
+    color: grey;
+}
+
+#author{
+    color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
