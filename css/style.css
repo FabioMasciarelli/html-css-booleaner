@@ -33,3 +33,18 @@ h3{
     background-color: deepskyblue;
 }
 
+.title{
+    color: white;
+    text-align: center;
+}
+#first-photo{
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+}
+
+#second-photo{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+}
